@@ -8,3 +8,6 @@ toplam = sayi1 + sayi2
 # Sonucu ekrana yazdıralım
 print(f"Girdiğiniz sayılar toplamı: {toplam}")
 // bu işlem python'da iki sayının toplamını alır ve sonucu ekrana yazdırır.
+
+bu bir pr örneğidir.
+
