@@ -7,3 +7,5 @@ toplam = sayi1 + sayi2
 
 # Sonucu ekrana yazdıralım
 print(f"Girdiğiniz sayılar toplamı: {toplam}")
+
+//yazdır
